@@ -2,7 +2,5 @@
 import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
-export default defineConfig({
-    site: 'https://zelikoo.github.io',
-    base: '/porfolio_astro', 
+export default defineConfig({    
 });
