@@ -83,7 +83,7 @@ const isVertical = orientation === "vertical";
 
   /* Vertical : ratio portrait 9/16, centré, largeur fixe */
   .is-vertical .carousel-container {
-    width: 560px;
+    width: min(560px, 90vw);
     aspect-ratio: 9 / 16;
     margin: 0 auto;
     margin-bottom: 20px;
@@ -200,7 +200,7 @@ const isVertical = orientation === "vertical";
 
   /* Vertical : petites miniatures portrait */
   .is-vertical .thumb {
-    width: 96px;
+    width: clamp(48px, 14vw, 96px);
     aspect-ratio: 9 / 16;
   }
 
