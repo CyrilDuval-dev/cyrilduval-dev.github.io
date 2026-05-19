@@ -8,7 +8,7 @@ images:
   - /assets/cokpit-DI-ZTD/cokpit2.png
   - /assets/cokpit-DI-ZTD/cokpit3.png
   - /assets/cokpit-DI-ZTD/cokpit4.png
-  - /assets/cokpit-DI-ZTD/cokpit5.pngss
+  - /assets/cokpit-DI-ZTD/cokpit5.png
 orientation: horizontal
 description: |
   Dashboard for managing telecom antenna installations
