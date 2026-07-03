@@ -12,7 +12,7 @@ const projects = (await getCollection("work"))
       (b.data.publishDate?.valueOf() ?? 0) -
       (a.data.publishDate?.valueOf() ?? 0),
   )
-  .slice(0, 4);
+  .slice(0, 5);
 ---
 
 <BaseLayout
