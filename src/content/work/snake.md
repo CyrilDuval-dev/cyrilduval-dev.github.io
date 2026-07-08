@@ -7,6 +7,7 @@ images:
   - /assets/snake_ia/snake1.png
   - /assets/snake_ia/snake2.png
   - /assets/snake_ia/snake3.png
+  - /assets/snake_ia/snake4.png
 
 orientation: horizontal
 description: |
